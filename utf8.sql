@@ -1,1 +1,3 @@
--- ã“ã®ãƒ•ã‚¡ã‚¤ãƒ«ã¯UTF-8ï¼†LFã®ãƒ•ã‚¡ã‚¤ãƒ«ã§ã™ã€‚
+-- ‚±‚Ìƒtƒ@ƒCƒ‹‚ÍUTF-8•LF‚Ìƒtƒ@ƒCƒ‹‚Å‚·B
+
+-- “ú–{Œê‚ð’Ç‰Á‚µ‚ÄA•¶ŽšƒR[ƒh‚ðSJIS‚É•ÏX‚µ‚Ü‚·B
